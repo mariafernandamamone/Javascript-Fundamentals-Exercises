@@ -8,7 +8,7 @@ The project is structured as a set of independent exercises, each with its own H
 
 ## 🚀 Live Demo
 
-
+👉 https://mariafernandamamone.github.io/Javascript-Fundamentals-Exercises/
 
 ---
 
