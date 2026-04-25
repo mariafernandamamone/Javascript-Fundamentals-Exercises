@@ -69,4 +69,4 @@ A task manager that persists data using localStorage, including completion track
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-fundamentals-exercises.git
+   git clone https://github.com/mariafernandamamone/Javascript-Fundamentals-Exercises
