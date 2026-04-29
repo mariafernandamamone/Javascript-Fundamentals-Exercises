@@ -36,8 +36,8 @@ Each exercise is separated into:
 
 ## 📋 Exercises
 
-### 1. Background Color Changer
-Changes the page background color to a random color when a button is clicked.
+### 1. Background _Bacground_Color Changer
+Changes the page background _Bacground_Color to a random _Bacground_Color when a button is clicked.
 
 ### 2. Click Counter
 Counts how many times a button is clicked and updates the value in real time.
